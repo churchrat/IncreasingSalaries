@@ -1,0 +1,14 @@
+D:\homeworke\RaisingSalary\RaisingTheSalary\bin\Debug\net8.0\RaisingTheSalary.exe
+D:\homeworke\RaisingSalary\RaisingTheSalary\bin\Debug\net8.0\RaisingTheSalary.deps.json
+D:\homeworke\RaisingSalary\RaisingTheSalary\bin\Debug\net8.0\RaisingTheSalary.runtimeconfig.json
+D:\homeworke\RaisingSalary\RaisingTheSalary\bin\Debug\net8.0\RaisingTheSalary.dll
+D:\homeworke\RaisingSalary\RaisingTheSalary\bin\Debug\net8.0\RaisingTheSalary.pdb
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.AssemblyInfoInputs.cache
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.AssemblyInfo.cs
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.csproj.CoreCompileInputs.cache
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.dll
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\refint\RaisingTheSalary.dll
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.pdb
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\RaisingTheSalary.genruntimeconfig.cache
+D:\homeworke\RaisingSalary\RaisingTheSalary\obj\Debug\net8.0\ref\RaisingTheSalary.dll
